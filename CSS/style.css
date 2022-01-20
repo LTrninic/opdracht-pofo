@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+#profilepage {
+    height: 100vh;
+    width: 100%;
+    background-color: #240046;
+}
+#profilepage h1{
+    color: white;
+    float: left;
+    font-size: 160%;
+   margin: 30px;
+    margin-top: 100px;
+}
+#profilepage img{
+    float: right;
+    height: 300px;
+    margin: 50px;
+    margin-top: 200px;
+    margin-bottom: 0px;
+    
+}
+#profilepage  img:hover{
+    border-top: 5px solid #9d4edd;
+    border-bottom: 5px solid #9d4edd;
+    border-left: 5px solid #9d4edd;
+    border-right: 5px solid #9d4edd;
+}
+
+#profilepage p{
+    color: white;
+    float: left;
+    font-size: 160%;
+    clear: both;   
+    margin: 30px;
+
+    
+}
+#profilepage1{
+    height: 100vh;
+    width: 100%;
+    background-color: #240046;
+}
+#careerpage{
+    height: 100vh;
+    width: 100%;
+    background-color: #240046;
+}
+#career1{
+    float: left;
+   
+}
+#career1 h1{
+
+    color: white;
+    float: left;
+  
+
+}
+#career1 p{
+    color: white;
+    clear: both;
+   
+}
+#career2 h2{
+    color: white;
+    float:right ;
+    margin-right: 150px;
+}
+#career2 p{
+    color: white;
+    
+
+}
+#career2{
+    float: right;
+    margin-top: 100px;
+}
+
+#nav {
+    height: 10%;
+    background-color: #240046;
+    overflow:hidden;
+    border: solid black;
+}
+#Naam {
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+    color: white;
+
+
+
+}
+#profile {
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+    
+    
+}
+#profile:hover {
+    color: black;
+    border-top: 2px solid #9d4edd;
+    border-bottom: 2px solid #9d4edd;
+    border-left: 2px solid #9d4edd;
+    border-right: 2px solid #9d4edd;
+}
+
+#career{
+    color: white;
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+    
+    
+}
+#career:hover {
+    color: black;
+    border-top: 2px solid #9d4edd;
+    border-bottom: 2px solid #9d4edd;
+    border-left: 2px solid #9d4edd;
+    border-right: 2px solid #9d4edd;
+}
+
+#portfolio{
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+}
+#portfolio:hover {
+    color: black;
+    border-top: 2px solid #9d4edd;
+    border-bottom: 2px solid #9d4edd;
+    border-left: 2px solid #9d4edd;
+    border-right: 2px solid #9d4edd;
+}
+
+#contact{
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+
+
+
+}
+#contact:hover {
+    color: black;
+    border-top: 2px solid #9d4edd;
+    border-bottom: 2px solid #9d4edd;
+    border-left: 2px solid #9d4edd;
+    border-right: 2px solid #9d4edd;
+}
+a{
+    color: white;
+}
+
+
+    
+
+
+
+   
+
