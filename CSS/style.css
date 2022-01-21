@@ -3,6 +3,7 @@
     padding: 0;
 
 }
+
 #profilepage {
     height: 100vh;
     width: 100%;
@@ -88,7 +89,6 @@
 #nav {
     height: 10%;
     background-color: #240046;
-    display: flex;
     overflow:hidden;
     border: solid black;
 }
@@ -98,9 +98,13 @@
     margin: 30px;
     margin-right: 150px;
     color: white;
-
-
-
+}
+#projecten{
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+    color: white;
 }
 #profile {
     float: left;
@@ -241,4 +245,25 @@ margin-right: 50px;
     border-bottom: 5px solid #9d4edd;
     border-left: 5px solid #9d4edd;
     border-right: 5px solid #9d4edd;
+}
+@keyframes rennen {
+    from{
+        transform: translateX(-1500px);
+    }
+    to{
+        transform: translateX(2000px);
+    }
+}
+#gif {
+    animation: rennen 4s ease-in infinite;
+    margin-top: 450px;
+}
+#gif2 {
+    animation: rennen 4s ease-in infinite;
+    margin-top:450px ;
+    clear: both;
+    
+}
+html{
+    overflow-x: hidden;
 }
