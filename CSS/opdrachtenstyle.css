@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body{
+
+    background-color: #240046;
+    color: white;
+}
+
+#buttons{
+    margin: auto;
+    width: 17%;
+    padding: 10px;
+    
+   
+}
+#buttontext{
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+    
+}
+#backtoindex{
+    height: 100vh;
+    width: 100%;
+    background-color: #240046;
+    color: white;
+}
+#nav {
+    height: 10%;
+    background-color: #240046;
+    overflow:hidden;
+    border: solid black;
+    color: white;
+}
+#Naam {
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+    color: white;
+}
+#projecten{
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+    color: white;
+}
+#profile {
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+}
+#career{
+    color: white;
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    margin-right: 150px;
+    
+    
+}
+#contact{
+    float: left;
+    font-size: 160%;
+    margin: 30px;
+    color: white;
+
+
+
+}
+a{
+    color: white;
+}
+
+#gif {
+    animation: rennen 4s ease-in infinite;
+    float: right;
+}

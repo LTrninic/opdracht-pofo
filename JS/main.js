@@ -1,3 +1,4 @@
+
 function temperatuur() {
     let temp = prompt('Hoe warm is het?');
 
@@ -14,7 +15,7 @@ function temperatuur() {
     }
 }
 
-temperatuur();
+
 
 
 
@@ -29,7 +30,7 @@ function cijfers() {
     }
 }
 
-cijfers()
+
 
 
 
@@ -53,4 +54,3 @@ function numbers() {
 
 }
 
-numbers()
