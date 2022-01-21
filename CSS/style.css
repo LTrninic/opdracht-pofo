@@ -138,6 +138,13 @@
     border-left: 2px solid #9d4edd;
     border-right: 2px solid #9d4edd;
 }
+#projecten:hover {
+    color: black;
+    border-top: 2px solid #9d4edd;
+    border-bottom: 2px solid #9d4edd;
+    border-left: 2px solid #9d4edd;
+    border-right: 2px solid #9d4edd;
+}
 
 #portfolio{
     float: left;
@@ -240,7 +247,13 @@ margin-right: 50px;
     float: left;
     clear: both;
 }
-#contactpage img:hover{
+#Instalogo:hover{
+    border-top: 5px solid #9d4edd;
+    border-bottom: 5px solid #9d4edd;
+    border-left: 5px solid #9d4edd;
+    border-right: 5px solid #9d4edd;
+}
+#mail:hover{
     border-top: 5px solid #9d4edd;
     border-bottom: 5px solid #9d4edd;
     border-left: 5px solid #9d4edd;
