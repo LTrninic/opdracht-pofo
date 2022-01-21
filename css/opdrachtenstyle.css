@@ -126,3 +126,15 @@ a{
     
     float: right;
 }
+h1{
+    font-family: 'Oswald', sans-serif;
+  }
+  h2{
+    font-family: 'Oswald', sans-serif;
+  }
+  h3{
+      font-family: 'Oswald', sans-serif;
+}
+  p{
+    font-family: 'PT Sans', sans-serif;
+  }

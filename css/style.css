@@ -267,7 +267,7 @@ margin-right: 50px;
 }
 #gif2 {
     animation: rennen 4s ease-in infinite;
-    margin-top:450px ;
+    margin-bottom:100px ;
     clear: both;
     
 }
@@ -298,4 +298,16 @@ html{
   /* Handle waneer je hovert */
   ::-webkit-scrollbar-thumb:hover {
     background: #9d4edd;;
+  }
+  h1{
+    font-family: 'Oswald', sans-serif;
+  }
+  h2{
+    font-family: 'Oswald', sans-serif;
+  }
+  h3{
+      font-family: 'Oswald', sans-serif;
+}
+  p{
+    font-family: 'PT Sans', sans-serif;
   }
