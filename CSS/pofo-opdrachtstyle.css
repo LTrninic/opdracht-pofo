@@ -11,10 +11,7 @@ body{
 
 
 #backtoindex{
-    height: 100vh;
-    width: 100%;
-    background-color: #240046;
-    color: white;
+    
 }
 #nav {
     height: 10%;
@@ -55,7 +52,7 @@ body{
 #code{
     float: left;
     font-size: 160%;
-    margin: 30px;
+    margin: 32px;
     margin-right: 150px;
     color: white;
 }
@@ -103,4 +100,9 @@ body{
 }
 a{
     color: white;
+}
+#pofo-content{
+    margin: auto;
+    width: 20%;
+    padding: 10px;
 }
