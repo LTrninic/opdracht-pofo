@@ -1,4 +1,4 @@
-
+    
 function temperatuur() {
     let temp = prompt('Hoe warm is het?');
 
